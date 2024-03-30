@@ -1,0 +1,79 @@
+{ 
+    "GuildID": "", 
+    "GuildName": "",
+    "StfuID": [],
+    "BotStatus": [], 
+    "VoiceChannel": "", 
+    "Footer": "",
+    "mongoUrl": "",
+
+    "Bots": {
+        "Mod_Token": "",
+        "Register_Token": "",
+        "Stats_Token": "",
+        "prefix": [],
+        "BotClientID": "",
+
+        "dmMessages": true,
+        "LevelSystem": false,
+        "messageDolar": 3,
+        "voiceDolar": 3,
+        "messageCount": 2,
+        "messageCoin": 1,
+        "voiceCount": 2,
+        "voiceCoin": 5,
+        "publicCoin": 6,
+        "inviteCount": 2,
+        "inviteCoin": 21,
+        "taggedCoin": 23,
+        "toplamsCoin": 7,
+        "yetkiCoin": 39,
+        "banlimit": 5,
+        "jaillimit": 5,
+        "warnlimit": 5,
+        "chatmutelimit": 5,
+        "voicemutelimit": 5
+    },
+
+    "Guard": {
+        "Token": {
+            "GuardOne": "",
+            "GuardTwo": "",
+            "GuardThree": "",
+            "GuardFour": "",
+            "OwnerAccount": "",
+            "Database": []
+        },
+        "Limit": {
+            "Ban": 3,
+            "Kick": 4,
+            "RoleCreate": 2,
+            "ChannelCreate": 2,
+            "Reklam": 5,
+            "Etiket": 5,
+            "Satır": 5,
+            "Ekler": 5
+        },
+    
+        "Guard": {
+            "TaskDelay": 300,
+            "GiveRoleDelay": 640
+        },
+
+        "kufurEngel": true,
+        "spamEngel": true,
+        "capsEngel": false,
+        "reklamEngel": true
+
+    },
+
+    "Welcome": {
+        "Active": false,
+        "Tokens": [
+         ""
+        ],
+        "Channels": [
+         ""      
+    ]
+    }
+}
