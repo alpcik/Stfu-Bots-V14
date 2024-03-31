@@ -7,7 +7,7 @@ Altyapıda Guard logunu tam yapmadım yani yapmadımda diyebiliriz ancak kurulum
 
 [ DIPNOT: Altyapıda fazla sistem var alabildiğim kadar ss aldım. Altyapıyı kullandığınız zaman detaylı bakarsınız. Ha bide o kadar emek veriok bide star atı verin bea ]
 
-
+[ UPDATE ] LeaderBoard yenilenmeme sorunu düzeltildi.
 # ☢️ UYARI
 
 Altyapı lisanslıdır. Her hangi bir benzeri paylaşımlarda şikayet edilecektir!
